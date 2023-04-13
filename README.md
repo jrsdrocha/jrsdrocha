@@ -1,5 +1,5 @@
-<h2>Olá! Eu sou José Roberto.</h2>
-<p>Sou desenvolvedor full-stak junior, tenho experiência nas seguintes tecnologias <b>HTML5, CSS3, JavaScript, Git & Github, Nodejs, MySQL</b> e com familiaridade com <b>React</b>. Estou constantemente estudando e aprendendo novas tecnologias, especialmente no âmbito do <b>Backend</b> (Que é minha area alvo). Atualmente estudo <b>Typescript</b>.<br></p>
+<h2>Olá, bem vindo(a)!.</h2>
+<p>Sou desenvolvedor full-stak junior, tenho experiência nas seguintes tecnologias <b>HTML5, CSS3, JavaScript, Git & Github, Nodejs, MySQL</b> e com familiaridade com <b>React</b>. Estou constantemente estudando e aprendendo novas tecnologias, especialmente no âmbito do <b>Backend</b> (Que é minha area alvo). Atualmente estudo <b>Typescript</b> e <b>Inglês</b>.<br></p>
 
 <br/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrsdrocha)](https://github.com/anuraghazra/github-readme-stats)   ![José Roberto GitHub stats](https://github-readme-stats.vercel.app/api?username=jrsdrocha&show_icons=true)
 
