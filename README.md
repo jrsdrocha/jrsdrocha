@@ -1,5 +1,5 @@
 <h2>Olá, bem-vindo(a)!</h2>
-<p>Sou Desenvolvedor full-stack júnior, me chamo<i><b> José Roberto</b></i>. Estudo desenvolvimento web desde março de 2021. Tenho experiência nas seguintes tecnologias; <b>HTML5, CSS3, JavaScript, Git & Github, Nodejs e MySQL</b>.  Tenho familiaridade com <b>React</b>. Estou constantemente estudando e aprendendo novas tecnologias, especialmente no âmbito do <b>Backend</b> (que é minha área alvo). Atualmente estudo <b>Typescript</b> e <b>Inglês</b>.<br> Pretendo no futuro estudar <b>Python</b>, depois dominar bem <b>Javascript.</b></p><br>
+<p>Sou Desenvolvedor full-stack júnior, me chamo<i><b> José Roberto</b></i>. Estudo desenvolvimento web desde março de 2021. Tenho experiência nas seguintes tecnologias; <b>HTML5, CSS3, JavaScript, Git & Github, Nodejs e MySQL</b>.  Tenho familiaridade com <b>React</b>. Estou constantemente estudando e aprendendo novas tecnologias, especialmente no âmbito do <b>Backend</b> (que é minha área alvo). Atualmente estudo <b>Typescript</b> e <b>Inglês</b>.<br> Pretendo no futuro estudar <b>Python</b>, depois de dominar bem <b>Javascript.</b></p><br>
 <blockquote>
   <p>"Risco e esforço são duas coisas capazes de revelar a sua <b>deficiência</b> e mostrar que <b>você não esta a altura da tarefa… "</b><br>(Carol s Dweck)</p>
 </blockquote>
