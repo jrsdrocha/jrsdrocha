@@ -1,7 +1,8 @@
 <h2>Olá, bem-vindo(a)!</h2>
-<p>Sou Desenvolvedor full-stack júnior, me chamo<i><b> José Roberto</b></i>. Estudo desenvolvimento web desde março de 2021. Tenho experiência nas seguintes tecnologias; <b>HTML5, CSS3, JavaScript, Git & Github, Node.js e MySQL</b>.  Tenho familiaridade com <b>React</b> e com os principais <b>Frameworks</b> do ambiente <b>Node.js</b>. Estou constantemente estudando e aprendendo novas tecnologias, especialmente no âmbito do <b>Backend</b> (que é minha área alvo). Atualmente estudo <b>Typescript</b> e <b>Inglês</b>.<br> Pretendo no futuro estudar <b>Python</b>, depois de dominar bem <b>Javascript.</b></p><br>
+<p>Sou Desenvolvedor full-stack júnior, me chamo<i><b> José Roberto</b></i>.<br> Estudo desenvolvimento web desde de 2020. Tenho experiência nas seguintes tecnologias; <b>HTML5, CSS3, JavaScript, Git & Github, Node.js e MySQL</b>.  Tenho familiaridade com; <b>Estruturas de dados, Algoritmos, React</b> e com os principais <b>Frameworks</b> do ambiente <b>Node.js</b>.<br> Estou constantemente estudando e aprendendo novas tecnologias, especialmente no âmbito do <b>Backend</b> (que é minha área alvo). Atualmente estudo <b>Typescript</b> e <b>Inglês</b>.<br> Pretendo no futuro, depois de dominar bem <b>Javascript</b>, estudar <b>Python</b> ou <b>Java</b>.<br>
+Além da programaçao, venho também enriquecendo meus conhecimentos e desenvolvendo cada vez mais minhas skills na area de lidenrança através de Livros e PodCasts.</p><br>
 <blockquote>
-  <p>"Risco e esforço são duas coisas capazes de revelar a sua <b>deficiência</b> e mostrar que <b>você não esta a altura da tarefa… "</b><br>(Carol s Dweck)</p>
+  <p>"Risco e esforço são duas coisas capazes de revelar a sua <strong>deficiência</strong> e mostrar que <strong>você não esta a altura da tarefa… "</strong>(Carol s Dweck)</p>
 </blockquote>
 
 <br/>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrsdrocha)![José Roberto GitHub stats](https://github-readme-stats.vercel.app/api?username=jrsdrocha&show_icons=true)
