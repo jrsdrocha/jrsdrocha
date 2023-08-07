@@ -5,11 +5,6 @@ Além da programação, venho também enriquecendo meus conhecimentos e desenvol
 <blockquote>
   <p>"Risco e esforço são duas coisas capazes de revelar a sua <strong>deficiência</strong> e mostrar que <strong>você não esta a altura da tarefa… "</strong>(Carol s Dweck)</p>
 </blockquote><br>
-I'm a junior full-stack developer.
-I study web development since 2020. I have experience in the technologies; HTML5, CSS3, JavaScript, Git & Github, Node.js and MySQL. I am familiar with; Typescript, React and with the main Frameworks of the Node.js environment.
-I'm constantly learning new technologies, especially in te enviroment Backend (which is my target area). Currently studying Data Structures & Algorithms and English.
-In the future, after mastering Javascript, I intend to study Python.
-I have also enriching my knowledge and increasingly developing my skills in the area of leadership through Books and PodCasts.
 
 <br/>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrsdrocha)![José Roberto GitHub stats](https://github-readme-stats.vercel.app/api?username=jrsdrocha&show_icons=true)
 
